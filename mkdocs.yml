@@ -1,0 +1,8 @@
+site_name: generated-docs
+site_description: Generated docs
+
+nav: 
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core

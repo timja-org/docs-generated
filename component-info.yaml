@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: generated-docs
+  description: Generated docs
+  annotations:
+    github.com/project-slug: timja-org/docs-generated
+    backstage.io/techdocs-ref: github:https://github.com/timja-org/docs-generated
+spec:
+  type: documentation
+  lifecycle: experimental
+  owner: guest
