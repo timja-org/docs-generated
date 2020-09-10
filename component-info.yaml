@@ -1,8 +1,8 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: generated-docs
-  description: Generated docs
+  name: rpe-runbook
+  description: Platform Engineering Run book
   annotations:
     github.com/project-slug: timja-org/docs-generated
     backstage.io/techdocs-ref: github:https://github.com/timja-org/docs-generated
