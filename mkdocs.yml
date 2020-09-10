@@ -1,8 +1,11 @@
-site_name: generated-docs
-site_description: Generated docs
+site_name: platform-engineering-runbook
+site_description: Platform Engineering runbook
 
 nav: 
   - Introduction: index.md
+  - Updating Jenkins: updating-jenkins.md
+  - Updating Kubernetes version: updating-kubernetes-versions.md
+  - Swap Preview to new cluster: swap-preview-to-new-cluster.md
 
 plugins:
   - techdocs-core

@@ -1,7 +1,10 @@
-## generated-docs
+# Platform Engineering run book
 
-Generated docs
+See the left hand side nav for all included run books.
 
+Please contribute new ones or fixes.
+
+<!--
 ## Getting started
 
 Start write your documentation by adding more markdown (.md) files to this folder (/docs) or replace the content in this file.
@@ -26,3 +29,4 @@ See also <https://www.mkdocs.org/user-guide/configuration/>.
 ## Support
 
 That's it. If you need support, reach out in [#docs-like-code](https://discord.com/channels/687207715902193673/714754240933003266) on Discord.
+-->
